@@ -1,0 +1,8 @@
+#IntelliJ
+.idea/
+
+#Packages
+.jar
+
+#Datasets
+.csv
