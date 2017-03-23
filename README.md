@@ -1,10 +1,10 @@
 Digit Classifier
 =================
 
-##Description
+## Description
 This is a Java application which recognises hand-written digits. It uses weights (see weights.txt) from a deep neural network I trained on a batch of 10000 images. This network was trained via my MNIST application.
 
-##Demo
+## Demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9TgyZg5SxZE
 " target="_blank"><img src="http://img.youtube.com/vi/9TgyZg5SxZE/0.jpg" 
